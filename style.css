@@ -1,19 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;500;600;700;800&display=swap');
 
 
-.container{
+.container .header{
     font-family: popins;
+    background-color: #CFCFCF;
 }
 .right-arrow{
     height: 10px;
     width: 10px;
 }
 .nav-link{
-    color: #B68C5A;
+    color: rgba(182, 140, 90, 1);
 }
 .btn{
     color: white;
-    background-color: #B68C5A;
+    background-color: rgba(182, 140, 90, 1);
 }
 .car{
     position: absolute;
@@ -29,4 +30,11 @@
     margin-left: 60px;
     width: 60%;
     line-height: 3rem;
+}
+.card{
+    background-color: #CFCFCF;
+    border: none;
+}
+.criminal-law{
+    background: linear-gradient(180deg, rgba(243, 243, 243, 0),#E7E7E7);
 }
