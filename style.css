@@ -1,7 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;500;600;700;800&display=swap');
+
+
+.container{
+    font-family: popins;
+}
 .right-arrow{
     height: 10px;
     width: 10px;
 }
-.navbar-nav .nav-link.active, .navbar-nav .show>.nav-link {
+.nav-link{
     color: #B68C5A;
+}
+.btn{
+    color: white;
+    background-color: #B68C5A;
+}
+.car{
+    position: absolute;
+    right: 20%;
+    bottom: 6rem;
+    left: 20%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: center;
+}
+.form-control{
+    margin-left: 60px;
+    width: 60%;
+    line-height: 3rem;
 }
