@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;500;600;700;800&display=swap');
 
-
-.container .header{
+.container{
     font-family: popins;
     background-color: #CFCFCF;
 }
@@ -36,5 +35,22 @@
     border: none;
 }
 .criminal-law{
-    background: linear-gradient(180deg, rgba(243, 243, 243, 0),#E7E7E7);
+    background: linear-gradient(180deg, rgba(122 117 117 / 61%),#E7E7E7);
+}
+
+.carousel-caption {   
+    position: absolute;
+    right: 15%;
+    top: 14rem;
+    left: 15%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: center;
+}
+.profile-logo{
+    border-radius: 135px;
+    height: 100px;
+    width: 100px;
+    margin-bottom: 2rem;
 }
