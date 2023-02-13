@@ -64,3 +64,15 @@
     background-color: black;
     color: white;
 }
+.lists{
+    list-style: none;
+}
+.lists a{
+    text-decoration: none;
+    color: white
+}
+.send-icon{
+    background-color: rgba(182, 140, 90, 1);
+    padding: 0px 16px;
+    margin-left: -5px;
+}
